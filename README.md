@@ -33,19 +33,16 @@ The **FedBenefits Health Plan Navigator GPT** is a time-limited AI tool designed
 - **Limited Scope**: Covers a subset of federal health plans, which may not address all geographic or individual situations.
 - **Valid Only During Open Season**: Applicable to the 2025 benefit season, with Open Season from November 11 to December 9, 2024.
 
-## **Installation and Setup**
-
-*Instructions on setting up the project locally (if applicable)*
 
 ## **Usage**
 
-*Instructions on using the tool, including commands and conversational examples.*
+- **Access the GPT in ChatGPT Store**: [Link to ChatGPT Store](https://chatgpt.com/g/g-iiydUH1cW)
 
 ## **Project Resources**
 
 - **Instruction Set**: [Link to Instruction Set](https://github.com/brockwebb/FedBenefits-HealthPlan-Navigator-GPT/blob/main/FBHP_NAV_GPT_Instructions)
 - **Model Card**: [Link to Model Card](https://github.com/brockwebb/FedBenefits-HealthPlan-Navigator-GPT/blob/main/FedBenefits_HealthPlan_Navigator_GPT__Model_Card.md)
-- **GPT in ChatGPT Store**: [Link to ChatGPT Store](https://chatgpt.com/g/g-iiydUH1cW)
+- **Data Files**: all the uploaded plan brochures used are in the /data directory
 
 ## **Contributing**
 
