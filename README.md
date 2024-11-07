@@ -13,6 +13,8 @@ The **FedBenefits Health Plan Navigator GPT** is a time-limited AI tool designed
 > **Privacy Warning**: This tool is not designed to collect, process, or secure private or sensitive information. Users are advised to avoid entering any personal, medical, or sensitive data.
 
 > **AI Limitations**: While this tool aims to provide helpful general information, **AI models can produce errors, incomplete information, or unintended responses**. All information should be verified with official sources (e.g., OPM website, plan brochures) prior to making any healthcare or financial decisions.
+>
+> **Specific Data Limitations**: Due to ChatGPT limitations of 20 files, only Maryland and Nationwide Health Plans were ingested. Potentially uploading the PDFs of any plan specific to your location as part of the chat may suffice. 
 
 > **Validity Period**: The tool is intended for limited use during the **Open Season period from November 11 to December 9, 2024**, for general information applicable to the 2025 benefit season.
 
