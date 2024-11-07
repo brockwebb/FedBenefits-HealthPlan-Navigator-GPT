@@ -43,9 +43,9 @@ The **FedBenefits Health Plan Navigator GPT** is a time-limited AI tool designed
 
 ## **Project Resources**
 
-- **Instruction Set**: [Link to Instruction Set](#)
-- **Model Card**: [Link to Model Card](#)
-- **GPT in ChatGPT Store**: [Link to ChatGPT Store](#)
+- **Instruction Set**: [Link to Instruction Set](https://github.com/brockwebb/FedBenefits-HealthPlan-Navigator-GPT/blob/main/FBHP_NAV_GPT_Instructions)
+- **Model Card**: [Link to Model Card](https://github.com/brockwebb/FedBenefits-HealthPlan-Navigator-GPT/blob/main/FedBenefits_HealthPlan_Navigator_GPT__Model_Card.md)
+- **GPT in ChatGPT Store**: [Link to ChatGPT Store](https://chatgpt.com/g/g-iiydUH1cW)
 
 ## **Contributing**
 
